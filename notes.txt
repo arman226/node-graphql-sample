@@ -1,0 +1,6 @@
+SETUP:
+1. `npm init`
+2. create an index.js
+3. install dependencies : npm i express express-graphql graphql
+4. to run the app easier locally, install nodemon as dev dependency: npm install --save-dev nodemon
+5.
